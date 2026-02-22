@@ -1,6 +1,5 @@
 package com.anisah.bookservice.controller;
 
-
 import com.anisah.bookservice.dto.BookRequest;
 import com.anisah.bookservice.dto.BookResponse;
 import com.anisah.bookservice.service.BookService;
@@ -54,5 +53,3 @@ public class BookController {
         bookService.delete(id);
     }
 }
-
-
