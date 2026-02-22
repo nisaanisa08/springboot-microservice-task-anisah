@@ -148,7 +148,7 @@ http://localhost:8081/api/books
 ![Create Book](docs/postman-all.PNG)
 
 ### Get a book by ID
-![Create Book](docs/postman-by Id.PNG)
+![Create Book](docs/postman-by%20Id.PNG)
 
 ### Delete a book
 ![Create Book](docs/postman-delete.PNG)
